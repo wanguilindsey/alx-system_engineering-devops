@@ -12,3 +12,4 @@ moving file
 Deleting file Betty
 Deleting first directory
 changing directory
+Listing all files
