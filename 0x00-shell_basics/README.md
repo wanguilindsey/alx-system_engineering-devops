@@ -9,3 +9,4 @@ All content files
 Detailed files
 README.md
 moving file
+Deleting file Betty
