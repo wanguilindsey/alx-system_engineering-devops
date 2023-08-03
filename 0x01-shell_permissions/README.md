@@ -9,3 +9,4 @@ Everybody x
 users permission
 setting mode
 Similar mode file
+x subdirectories
