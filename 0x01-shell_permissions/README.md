@@ -14,3 +14,4 @@ directory 751
 changing grpowner
 changing owner and grpowner
 symbolic links
+changing owner if only
