@@ -11,3 +11,4 @@ setting mode
 Similar mode file
 x subdirectories
 directory 751
+changing grpowner
