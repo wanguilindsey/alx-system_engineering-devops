@@ -7,3 +7,4 @@ x owner
 Multiple permissions
 Everybody x
 users permission
+setting mode
