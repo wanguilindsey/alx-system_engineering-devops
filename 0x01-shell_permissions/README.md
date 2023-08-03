@@ -12,3 +12,4 @@ Similar mode file
 x subdirectories
 directory 751
 changing grpowner
+changing owner and grpowner
