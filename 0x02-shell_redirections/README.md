@@ -13,3 +13,4 @@ Number of dirs and subdirs
 10 newest files
 Unique words
 Files with pattern root
+No of lines with pattern bin
