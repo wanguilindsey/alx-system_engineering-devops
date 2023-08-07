@@ -8,3 +8,4 @@ Third line of iacta
 Creating file and writing in it
 Writing into file results of command
 Duplicate last line of iacta
+Deleting regular files with js extension
