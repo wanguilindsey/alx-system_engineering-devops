@@ -24,3 +24,4 @@ All users and home directories
 Empty files and directories
 .gif files
 Acrostic
+web servers logs in TSV format
