@@ -20,3 +20,4 @@ Lines starting with a letter
 Replacing characters
 Remove all Cs
 Reversing input
+All users and home directories
