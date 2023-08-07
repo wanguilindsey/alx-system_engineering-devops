@@ -17,3 +17,4 @@ No of lines with pattern bin
 Pattern root and 3 lines after them
 Lines without pattern bin
 Lines starting with a letter
+Replacing characters
