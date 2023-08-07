@@ -1,0 +1,14 @@
+total 18
+drwxr-xr-x 1 Admin 197121   0 Aug  7 12:23 .
+drwxr-xr-x 1 Admin 197121   0 Aug  7 09:38 ..
+-rwxr-xr-x 1 Admin 197121  32 Aug  7 09:40 0-hello_world
+-rwxr-xr-x 1 Admin 197121  28 Aug  7 09:54 1-confused_smiley
+-rwxr-xr-x 1 Admin 197121  28 Aug  7 09:58 2-hellofile
+-rw-r--r-- 1 Admin 197121  38 Aug  7 10:13 3-twofiles
+-rwxr-xr-x 1 Admin 197121  29 Aug  7 10:27 4-lastlines
+-rwxr-xr-x 1 Admin 197121  29 Aug  7 10:35 5-firstlines
+-rwxr-xr-x 1 Admin 197121  40 Aug  7 10:44 6-third_line
+-rwxr-xr-x 1 Admin 197121 100 Aug  7 11:15 7-file
+-rwxr-xr-x 1 Admin 197121  36 Aug  7 12:21 8-cwd_state
+-rw-r--r-- 1 Admin 197121   0 Aug  7 12:23 ls_cwd_content
+-rw-r--r-- 1 Admin 197121 236 Aug  7 12:15 README.md
