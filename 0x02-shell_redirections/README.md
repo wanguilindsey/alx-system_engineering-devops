@@ -22,3 +22,4 @@ Remove all Cs
 Reversing input
 All users and home directories
 Empty files and directories
+.gif files
