@@ -14,3 +14,4 @@ Number of dirs and subdirs
 Unique words
 Files with pattern root
 No of lines with pattern bin
+Pattern root and 3 lines after them
