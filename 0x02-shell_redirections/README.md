@@ -11,3 +11,4 @@ Duplicate last line of iacta
 Deleting regular files with js extension
 Number of dirs and subdirs
 10 newest files
+Unique words
