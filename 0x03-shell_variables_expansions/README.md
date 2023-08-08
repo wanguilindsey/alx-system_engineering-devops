@@ -8,3 +8,4 @@ Creating local variable
 Creating global variable
 Arithmetics
 POWER divided by DIVIDE
+Power arithmetic
