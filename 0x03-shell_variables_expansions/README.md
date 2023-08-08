@@ -12,3 +12,4 @@ Power arithmetic
 Converting binary to decimal
 All possible combinations of two letters
 Converting Decimal to Hexadecimal
+Encoding and decoding using rot13
