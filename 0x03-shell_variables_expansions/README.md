@@ -9,3 +9,4 @@ Creating global variable
 Arithmetics
 POWER divided by DIVIDE
 Power arithmetic
+Converting binary to decimal
