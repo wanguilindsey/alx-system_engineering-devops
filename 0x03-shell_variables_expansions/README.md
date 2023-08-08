@@ -14,3 +14,4 @@ All possible combinations of two letters
 Converting Decimal to Hexadecimal
 Encoding and decoding using rot13
 Print every other line from the input
+Add the two numbers stored in WATER and STIR
