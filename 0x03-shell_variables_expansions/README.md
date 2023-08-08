@@ -10,3 +10,4 @@ Arithmetics
 POWER divided by DIVIDE
 Power arithmetic
 Converting binary to decimal
+All possible combinations of two letters
