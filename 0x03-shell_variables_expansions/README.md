@@ -6,3 +6,4 @@ Environment variables
 Local and environment vars
 Creating local variable
 Creating global variable
+Arithmetics
