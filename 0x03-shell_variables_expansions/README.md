@@ -4,3 +4,4 @@ Path
 Count directories in PATH
 Environment variables
 Local and environment vars
+Creating local variable
