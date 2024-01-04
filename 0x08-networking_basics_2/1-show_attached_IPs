@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Use 'hostname' to get the local IPv4 address
+hostname -I | tr -d ' '
