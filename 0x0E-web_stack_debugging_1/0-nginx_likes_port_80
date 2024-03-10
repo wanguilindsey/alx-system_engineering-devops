@@ -9,10 +9,10 @@ sudo apt-get install -y nginx
 sed -i 's/listen 80 default_server;/listen 80;/g' /etc/nginx/sites-available/default
 
 # Restart nginx to apply the changes
-service nginx restart
+sudo service nginx restart
 
 # Check if nginx is listening on port 80
-netstat -tuln | grep ':80';
+sudo netstat -tuln -4 | grep ':80';
 
 # Return a web page with HTTP 200 on port 80
 echo -e "HTTP/1.1 200 OK\nContent-Type: text/html\n\n<html><body><h1>Hello, world!</h1></body></html>" | nc -l -p 80 -q 1

@@ -1,26 +1,21 @@
-Hit:1 https://download.docker.com/linux/ubuntu focal InRelease
-Get:2 http://security.ubuntu.com/ubuntu focal-security InRelease [114 kB]
-Hit:3 http://ppa.launchpad.net/brightbox/ruby-ng/ubuntu focal InRelease
-Hit:4 http://archive.ubuntu.com/ubuntu focal InRelease
-Hit:5 http://ppa.launchpad.net/vbernat/haproxy-2.4/ubuntu focal InRelease
-Get:6 http://archive.ubuntu.com/ubuntu focal-updates InRelease [114 kB]
+Hit:1 http://security.ubuntu.com/ubuntu focal-security InRelease
+Hit:2 http://ppa.launchpad.net/brightbox/ruby-ng/ubuntu focal InRelease
+Hit:3 http://ppa.launchpad.net/vbernat/haproxy-2.4/ubuntu focal InRelease
+Hit:4 http://ppa.launchpad.net/vbernat/haproxy-2.8/ubuntu focal InRelease
+Hit:5 http://archive.ubuntu.com/ubuntu focal InRelease
+Hit:6 https://download.docker.com/linux/ubuntu focal InRelease
 Hit:7 https://deb.nodesource.com/node_14.x focal InRelease
-Hit:8 http://ppa.launchpad.net/vbernat/haproxy-2.8/ubuntu focal InRelease
+Get:8 http://archive.ubuntu.com/ubuntu focal-updates InRelease [114 kB]
 Hit:9 http://archive.ubuntu.com/ubuntu focal-backports InRelease
-Get:10 http://security.ubuntu.com/ubuntu focal-security/restricted amd64 Packages [3,341 kB]
-Get:11 http://security.ubuntu.com/ubuntu focal-security/universe amd64 Packages [1,189 kB]
-Get:12 http://security.ubuntu.com/ubuntu focal-security/main amd64 Packages [3,431 kB]
-Get:13 http://archive.ubuntu.com/ubuntu focal-updates/restricted amd64 Packages [3,491 kB]
-Get:14 http://archive.ubuntu.com/ubuntu focal-updates/universe amd64 Packages [1,485 kB]
-Get:15 http://archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages [3,906 kB]
-Fetched 17.1 MB in 22s (762 kB/s)
+Get:10 http://archive.ubuntu.com/ubuntu focal-updates/universe amd64 Packages [1,486 kB]
+Fetched 1,599 kB in 11s (144 kB/s)
 Reading package lists...
 Reading package lists...
 Building dependency tree...
 Reading state information...
 nginx is already the newest version (1.18.0-0ubuntu1.4).
-0 upgraded, 0 newly installed, 0 to remove and 261 not upgraded.
+0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
  * Restarting nginx nginx
    ...done.
-./0-nginx_likes_port_80: line 15: netstat: command not found
+sudo: netstat: command not found
 nc: Address already in use
