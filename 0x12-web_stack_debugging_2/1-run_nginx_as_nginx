@@ -3,11 +3,7 @@
 # nginx runs as nginx user and listens on all active IPs on port 8080
 
 service apache2 stop
-if ! command -v nginx &> /dev/null; then
-    apt-get update
-    apt-get install nginx -y
-fi
 chown nginx:nginx /etc/nginx/nginx.conf
 chmod 700 /etc/nginx/nginx.conf
 sed -i 's/80 default_server/8080 default_server/' /etc/nginx/sites-available/default
-service nginx restart
+sudo -u nginx service nginx start
