@@ -1,21 +1,24 @@
-Hit:1 http://security.ubuntu.com/ubuntu focal-security InRelease
-Hit:2 http://ppa.launchpad.net/brightbox/ruby-ng/ubuntu focal InRelease
-Hit:3 http://ppa.launchpad.net/vbernat/haproxy-2.4/ubuntu focal InRelease
-Hit:4 http://ppa.launchpad.net/vbernat/haproxy-2.8/ubuntu focal InRelease
-Hit:5 http://archive.ubuntu.com/ubuntu focal InRelease
-Hit:6 https://download.docker.com/linux/ubuntu focal InRelease
-Hit:7 https://deb.nodesource.com/node_14.x focal InRelease
-Get:8 http://archive.ubuntu.com/ubuntu focal-updates InRelease [114 kB]
-Hit:9 http://archive.ubuntu.com/ubuntu focal-backports InRelease
-Get:10 http://archive.ubuntu.com/ubuntu focal-updates/universe amd64 Packages [1,486 kB]
-Fetched 1,599 kB in 11s (144 kB/s)
+Hit:1 http://archive.ubuntu.com/ubuntu focal InRelease
+Get:2 http://archive.ubuntu.com/ubuntu focal-updates InRelease [114 kB]
+Hit:3 http://archive.ubuntu.com/ubuntu focal-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu focal-security InRelease
+Hit:5 https://download.docker.com/linux/ubuntu focal InRelease
+Hit:6 http://ppa.launchpad.net/brightbox/ruby-ng/ubuntu focal InRelease
+Hit:7 http://ppa.launchpad.net/vbernat/haproxy-2.4/ubuntu focal InRelease
+Hit:8 http://ppa.launchpad.net/vbernat/haproxy-2.8/ubuntu focal InRelease
+Hit:9 https://deb.nodesource.com/node_14.x focal InRelease
+Get:10 http://archive.ubuntu.com/ubuntu focal-updates/main amd64 Packages [3,923 kB]
+Fetched 4,037 kB in 13s (304 kB/s)
 Reading package lists...
 Reading package lists...
 Building dependency tree...
 Reading state information...
 nginx is already the newest version (1.18.0-0ubuntu1.4).
 0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
- * Restarting nginx nginx
-   ...done.
-sudo: netstat: command not found
-nc: Address already in use
+System has not been booted with systemd as init system (PID 1). Can't operate.
+Failed to connect to bus: Host is down
+System has not been booted with systemd as init system (PID 1). Can't operate.
+Failed to connect to bus: Host is down
+./0-nginx_likes_port_80: line 18: netstat: command not found
+System has not been booted with systemd as init system (PID 1). Can't operate.
+Failed to connect to bus: Host is down
