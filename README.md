@@ -1,2 +1,1 @@
-shell basics
-Hello World
+0x14. MySQL
