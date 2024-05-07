@@ -1,15 +1,11 @@
 #!/usr/bin/python3
-"""recursive function that queries the Reddit API and returns a list
-containing the titles of all hot articles for a given subreddit"""
+"""recursive function that queries the Reddit API and returns a list for a given subreddit"""
 import requests
 
 
 def recurse(subreddit, hot_list=[], n=0, after=None):
     """ queries the Reddit API and returns a list containing the titles of
     all hot articles for a given subreddit
-
-    The Reddit API uses pagination for separating pages of responses.
-    If not a valid subreddit, return None.
 
     Args:
         subreddit (str): subreddit.
