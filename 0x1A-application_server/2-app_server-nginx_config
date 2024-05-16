@@ -1,3 +1,5 @@
+#configure Nginx to serve your page from the route /airbnb-onepage/
+
 server {
     listen 80;
     server_name 34.227.92.165;
